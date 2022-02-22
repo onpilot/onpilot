@@ -11,4 +11,4 @@ Prior to software engineering,  I found myself to be a self-taught designer. I w
 - 🍵 Sometimes, I kinda like learning about machine learning and natural language processing. 
 - ✨ Fun fact: I already like you ❤️.
 
-You can find me on Twitter [@onpilot_](https://twitter.com/onpilot_) or connect with me on [LinkedIn](http://linkedin.com/in/onpilot). I don't byte.
+You can find me on Twitter [@onpilot_](https://twitter.com/onpilot_) or [LinkedIn](http://linkedin.com/in/onpilot). I don't byte, usually.
