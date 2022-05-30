@@ -7,9 +7,8 @@ Prior to software engineering,  I found myself to be a self-taught designer. I w
 
 - 🚀 I’m currently building [my github page](http://onpilot.github.io/).
 - 👨‍🚀 I’m passionate about web development.
-- 🧝‍♀️ All UX developers and designers are my friends.
+- 🔭 Currently learning a11y and ci/cd.
 - ✨ Fun fact: I already like you ❤️.
-- 🍵 Sometimes, I kinda like learning about machine learning and natural language processing. 
 
 #### Support me
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/onpilot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
