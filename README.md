@@ -73,14 +73,12 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 
 ## 📫 Interested in working together? I'd love to hear from you.
 
-<a href="https://twitter.com/onpilot_"><img src="img/twitter.svg" alt="Twitter" style="height: 48px; width: 48px; border-radius: 9999px; padding: 4px"></a>
-<a href="https://t.me/onpilot"><img src="img/telegram.svg" alt="Telegram" style="height: 48px; width: 48px; border-radius: 9999px; padding: 4px"></a>
-<a href="https://www.linkedin.com/in/onpilot"><img src="img/linkedin.svg" alt="LinkedIn" style="height: 48px; width: 48px; border-radius: 9999px; padding: 4px"></a>
-<a href="https://www.upwork.com/freelancers/~01a47cdc3cbcf692a9"><img src="img/upwork.svg" alt="Upwork" style="height: 48px; width: 48px; border-radius: 9999px; padding: 4px"></a>
-<a href="mailto:idan.onpilot@gmail.com"><img src="img/gmail.svg" alt="Gmail" style="height: 48px; width: 48px; border-radius: 9999px; padding: 4px"></a>
-<a href="https://onpilot.github.io"><img src="img/globe.svg" alt="Website" style="height: 48px; width: 48px; border-radius: 9999px; padding: 4px"></a>
-
-<br/>
+<a href="https://twitter.com/onpilot_"><img src="img/twitter.svg" alt="Twitter" style="height: 48px; width: 48px;"></a>
+<a href="https://t.me/onpilot"><img src="img/telegram.svg" alt="Telegram" style="height: 48px; width: 48px;"></a>
+<a href="https://www.linkedin.com/in/onpilot"><img src="img/linkedin.svg" alt="LinkedIn" style="height: 48px; width: 48px;"></a>
+<a href="https://www.upwork.com/freelancers/~01a47cdc3cbcf692a9"><img src="img/upwork.svg" alt="Upwork" style="height: 48px; width: 48px;"></a>
+<a href="mailto:idan.onpilot@gmail.com"><img src="img/gmail.svg" alt="Gmail" style="height: 48px; width: 48px;"></a>
+<a href="https://onpilot.github.io"><img src="img/globe.svg" alt="Website" style="height: 48px; width: 48px;"></a>
 
 #### Support me
 
