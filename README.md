@@ -32,6 +32,7 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=appveyor&style=flat&logo=eslint&logoColor=white)](#stack)
 [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=appveyor&style=flat&logo=babel&logoColor=black)](#stack)
 [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=appveyor&style=flat&logo=yarn&logoColor=white)](#stack)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=appveyor&style=flat&logo=npm&logoColor=white)](#stack)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=appveyor&style=flat&logo=git&logoColor=white)](#stack)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=appveyor&style=flat&logo=node.js&logoColor=white)](#stack)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?styleappveyor&style=flat&logo=express&logoColor=%2361DAFB)](#stack)
@@ -61,7 +62,7 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=appveyor&style=flat&logo=firebase)](#learn-next)
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=appveyor&style=flat&logo=svelte&logoColor=white)](#learn-next)
 
-#### Where I'm Learning at
+#### Where I'm learning at
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=appveyor&style=plastic&logo=freecodecamp&logoColor=green)](https://freecodecamp.org/onpilot)
 [![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=appveyor&style=plastic&logo=scrimba&logoColor=white)](#courses)
