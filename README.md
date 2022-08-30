@@ -22,7 +22,7 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=appveyor&style=flat&logo=svelte&logoColor=white)](#learn-next)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=appveyor&style=flat&logo=typescript&logoColor=white)](#stack)
 
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#stack)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=appveyor&style=flat&logo=tailwind-css&logoColor=white)](#stack)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=appveyor&style=flat&logo=styled-components&logoColor=white)](#stack)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=appveyor&style=flat&logo=SASS&logoColor=white)](#stack)
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=appveyor&style=flat&logo=mui&logoColor=white)](#stack)
