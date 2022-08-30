@@ -19,8 +19,10 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=appveyor&style=flat&logo=css3&logoColor=white)](#stack)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=appveyor&style=flat&logo=javascript&logoColor=%23F7DF1E)](#stack)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=appveyor&style=flat&logo=react&logoColor=%2361DAFB)](#stack)
+[![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=appveyor&style=flat&logo=svelte&logoColor=white)](#learn-next)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=appveyor&style=flat&logo=typescript&logoColor=white)](#stack)
 
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#stack)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=appveyor&style=flat&logo=styled-components&logoColor=white)](#stack)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=appveyor&style=flat&logo=SASS&logoColor=white)](#stack)
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=appveyor&style=flat&logo=mui&logoColor=white)](#stack)
@@ -60,7 +62,6 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=appveyor&style=flat&logo=githubactions&logoColor=white)](#learn-next)
 [![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=appveyor&style=flat&logo=travis&logoColor=white)](#learn-next)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=appveyor&style=flat&logo=firebase)](#learn-next)
-[![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=appveyor&style=flat&logo=svelte&logoColor=white)](#learn-next)
 
 #### Where I'm learning at
 
