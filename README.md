@@ -41,7 +41,6 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 <!-- [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=appveyor&style=flat&logo=react-router&logoColor=white)](#stack) -->
 <!-- [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=appveyor&style=flat&logo=react%20query&logoColor=white)](#stack) -->
 
-
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=appveyor&style=flat&logo=vercel&logoColor=white)](#stack)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=appveyor&style=flat&logo=netlify&logoColor=#00C7B7)](#stack)
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=appveyor&style=flat&logo=heroku&logoColor=white)](#stack)
@@ -51,8 +50,9 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=appveyor&style=flat&logo=visual-studio-code&logoColor=white)](#stack)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=appveyor&style=flat&logo=vim&logoColor=white)](#stack)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=appveyor&style=flat&logo=figma&logoColor=white)](#stack)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=appveyor&style=flat&logo=postman&logoColor=white)](#stack)
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=appveyor&style=flat&logo=adobe%20photoshop&logoColor=white)](#stack)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=appveyor&style=flat&logo=figma&logoColor=white)](#stack)
 
 #### What I'm interested in learning next
 
