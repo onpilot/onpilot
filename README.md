@@ -24,12 +24,11 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=appveyor&style=flat&logo=tailwind-css&logoColor=white)](#stack)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=appveyor&style=flat&logo=styled-components&logoColor=white)](#stack)
+[![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=appveyor&style=flat&logo=postcss&logoColor=white)](#stack)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=appveyor&style=flat&logo=SASS&logoColor=white)](#stack)
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=appveyor&style=flat&logo=mui&logoColor=white)](#stack)
 [![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=appveyor&style=flat&logo=chakraui&logoColor=white)](#stack)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=appveyor&style=flat&logo=bootstrap&logoColor=white)](#stack)
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=appveyor&style=flat&logo=adobe%20photoshop&logoColor=white)](#stack)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=appveyor&style=flat&logo=figma&logoColor=white)](#stack)
+<!-- [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=appveyor&style=flat&logo=bootstrap&logoColor=white)](#stack) -->
 
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=appveyor&style=flat&logo=eslint&logoColor=white)](#stack)
 [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=appveyor&style=flat&logo=babel&logoColor=black)](#stack)
@@ -38,17 +37,22 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=appveyor&style=flat&logo=git&logoColor=white)](#stack)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=appveyor&style=flat&logo=vite&logoColor=white)](#stack)
 [![Next JS](https://img.shields.io/badge/Next-black?style=appveyor&style=flat&logo=next.js&logoColor=white)](#stack)
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=appveyor&style=flat&logo=jest&logoColor=white)](#stack)
+<!-- [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=appveyor&style=flat&logo=react-router&logoColor=white)](#stack) -->
+<!-- [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=appveyor&style=flat&logo=react%20query&logoColor=white)](#stack) -->
+
 
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=appveyor&style=flat&logo=vercel&logoColor=white)](#stack)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=appveyor&style=flat&logo=netlify&logoColor=#00C7B7)](#stack)
 [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=appveyor&style=flat&logo=heroku&logoColor=white)](#stack)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=appveyor&style=flat&logo=docker&logoColor=white)](#stack)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=appveyor&style=flat&logo=node.js&logoColor=white)](#stack)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?styleappveyor&style=flat&logo=express&logoColor=%2361DAFB)](#stack)
-[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=appveyor&style=flat&logo=jest&logoColor=white)](#stack)
+<!-- [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=appveyor&style=flat&logo=node.js&logoColor=white)](#stack) -->
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=appveyor&style=flat&logo=visual-studio-code&logoColor=white)](#stack)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=appveyor&style=flat&logo=vim&logoColor=white)](#stack)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=appveyor&style=flat&logo=figma&logoColor=white)](#stack)
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=appveyor&style=flat&logo=adobe%20photoshop&logoColor=white)](#stack)
 
 #### What I'm interested in learning next
 
