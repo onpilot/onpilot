@@ -9,7 +9,6 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 - 🚀 I’m currently building [my github page](http://onpilot.github.io/).
 - 👨‍🚀 I’m passionate about web development.
 - 🔭 I'm interested towards web a11y.
-- ✨ Fun fact: I already like you ❤️
 
 <br/>
 
@@ -89,4 +88,8 @@ Prior to software engineering, I found myself to be a self-taught designer. I wa
 
 #### Support me
 
-<a href="https://www.buymeacoffee.com/onpilot"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://cottonbureau.com/people/onpilot"><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/58d57862dd8c8e7f5974de94/images/5b3d6c240428630abc0bb854/logo-200-(1).png" alt="Shop Graphic Tees, Hoodies, Phone Cases, and More. | Cotton Bureau" style="height:40px !important;width:40px !important;"></a>
+
+[![Saweria](https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge)](https://saweria.co/wildanfa)
+
+<!-- <a href="https://www.buymeacoffee.com/onpilot"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> -->
